@@ -1,2 +1,9 @@
 # sampleProject1
 ECSE205L Software Engineering Lab 3
+
+# Atindra Shekhar
+### E19CSE187
+### EB - 09
+
+- Successfully set up egit
+- Cloned the repository

@@ -7,5 +7,8 @@ ECSE205L Software Engineering Lab 3
 ### E19CSE187
 ### EB - 09
 
+- Commiting changes on 28th Jan
 - Successfully set up egit
 - Cloned the repository
+
+# Changes
